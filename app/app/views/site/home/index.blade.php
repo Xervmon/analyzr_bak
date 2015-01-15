@@ -83,43 +83,43 @@
   <section id="Howitworks" class="section section-center section-hilite section-features loaded" style="margin-top:0.5em;">
      
          <div class="container" style="padding-right: 40px;">
-            <h2 class="section-title"><span>How it works?</span></h2>
+            <h2 class="section-title"><span>Features</span></h2>
             <div class="row">
 
               <div class="col-md-4 col-sm-6">
-                <div class="icon-wrap"><img src="{{asset('assets/img/icon-easel-flat.png')}}" alt=""></div>
-                <h4>Subheading</h4>
-                <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+                <div class="icon-wrap"><img src="{{asset('assets/img/ascendant6.png')}}" alt=""></div>
+                <h4>Spend Management</h4>
+                <p>Track,  Manage and set budgets on your spend across your AWS accounts.</p>
               </div>
 
               <div class="col-md-4 col-sm-6">
-                <div class="icon-wrap"><img src="{{asset('assets/img/icon-comments-flat.png')}}" alt=""></div>
-                <h4>Subheading</h4>
-                <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+                <div class="icon-wrap"><img src="{{asset('assets/img/locked53.png')}}" alt=""></div>
+                <h4>Security Audit</h4>
+                <p>Using security credentials, we provide comprehensive security audit reports on your AWS assets.</p>
               </div>
 
               <div class="col-md-4 col-sm-6">
-                <div class="icon-wrap"><img src="{{asset('assets/img/icon-book-flat.png')}}" alt=""></div>
-                <h4>Subheading</h4>
-                <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+                <div class="icon-wrap"><img src="{{asset('assets/img/verification5.png')}}" alt=""></div>
+                <h4>Port Scaning Audit</h4>
+                <p>Track your inbound and outbound ports originating from your security groups across AWS accounts.</p>
               </div>
 
               <div class="col-md-4 col-sm-6">
-                <div class="icon-wrap"><img src="{{asset('assets/img/icon-bag-flat.png')}}" alt=""></div>
-                <h4>Subheading</h4>
-                <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+                <div class="icon-wrap"><img src="{{asset('assets/img/pin56.png')}}" alt=""></div>
+                <h4>Instance Tracker</h4>
+                <p>Manage and Track Instances spanning AWS regions across multiple accounts.</p>
               </div>
 
               <div class="col-md-4 col-sm-6">
-                <div class="icon-wrap"><img src="{{asset('assets/img/icon-photo-flat.png')}}" alt=""></div>
-                <h4>Subheading</h4>
-                <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+                <div class="icon-wrap"><img src="{{asset('assets/img/log5.png')}}" alt=""></div>
+                <h4>Cloud Trail Logs</h4>
+                <p>Scan your cloud trail logs across AWS accounts.</p>
               </div>
 
               <div class="col-md-4 col-sm-6">
-                <div class="icon-wrap"><img src="{{asset('assets/img/icon-calculator-flat.png')}}" alt=""></div>
-                <h4>Subheading</h4>
-                <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+                <div class="icon-wrap"><img src="{{asset('assets/img/operations.png')}}" alt=""></div>
+                <h4>AWS Pricing</h4>
+                <p>Know the pricing for Reserved and Ondemand Instances.</p>
               </div>
 
             </div>
@@ -201,7 +201,7 @@
     <!-- </section>
  -->
 
-
+   <!--
     <section id="pricing" class="section section-center section-pricing loaded">
             <div class="container" style="padding-right: 50px;">
                 <h2 class="section-title"><span>Pricing Table Made Easy</span></h2>
@@ -296,8 +296,7 @@
                 </div>
             </div>
         </section>
-
-
+	-->
 
        <!--  <section id="team" class="section section-center section-hilite section-team loaded">
             <div class="container" style="padding-right: 50px;">

@@ -135,11 +135,9 @@
 	    						</li>
 	                        @else
 	                         @if(Request::url()==URL::to('/'))
-	                          	<li id="howitworks"><a href="#Howitworks">How it works</a></li>
-	                         	<li id="pricings"><a href="#pricing">Pricing</a></li>
+	                          	<li id="howitworks"><a href="#Howitworks"><span class="glyphicon glyphicon-check"></span>Features</a></li>
 	                         @else
-	                         	<li id="howitworks"><a href="{{{ URL::to('/').'#Howitworks' }}}">How it works</a></li>
-	                         	<li id="pricings"><a href="{{{ URL::to('/').'#pricing' }}}">Pricing</a></li>
+	                         	<li id="howitworks"><a href="{{{ URL::to('/').'#Howitworks' }}}"><span class="glyphicon glyphicon-check"></span>Features</a></li>
 	                         @endif	
                        <!-- <li><a href="#services">Services</a></li>
                             <li><a href="#blog">Blog</a></li>-->
@@ -195,9 +193,6 @@
         </script>
         @yield('scripts')
 
-        {{-- Load SumoMe for the marketing stuff --}}
-        <!--
-        <script src="//load.sumome.com/" data-sumo-site-id="d9c34610bfb1f1b8f5c8cbfdce3a831f7e81aac9ef616668be06e0ffed04f25b" async></script>
-		-->
+       
 	</body>
 </html>
